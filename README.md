@@ -1,4 +1,4 @@
-# loading-animation udah
+# loading-animation beluman
 
 you can check the result here : https://asmfadholi.github.io/loading-animation/
 
